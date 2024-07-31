@@ -1,0 +1,14 @@
+description: Ultralytics best model trained on /content/arecanut-leaf-spot-diseases-2/data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2024-07-11T16:15:43.648468'
+version: 8.0.196
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 768
+- 768
+names:
+  0: diseased
+  1: healthy
